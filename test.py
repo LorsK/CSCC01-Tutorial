@@ -1,6 +1,6 @@
 def randomFunction(a, b):
-	c = a + b
-	a = c * a
-	b = c / a
+	c = a + a
+	a = c * c
+	b = b / c
 	return ((a*b)%c)
 
