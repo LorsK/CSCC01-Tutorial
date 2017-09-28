@@ -4,3 +4,5 @@ def randomFunction(a, b):
 	b = c / a
 	return ((a*b)%c)
 
+def division(a, b):
+	return (a/b)
